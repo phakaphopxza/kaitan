@@ -37,8 +37,8 @@ _G.Setting_AutoFarm = {
 }
 
 _G.Setting_Webhook = {
-    ["Google_Sheets_Api"] = "https://discord.com/api/webhooks/1095588306831540285/TB1DeQJ8NPTXHfBHbzXJgadULaOhx9QfqaKZoJx2jj6mRzxddYG1Tm8L_yKFwqjM3dUS",
-    ["Discord_Webhook_Api"] = "",
+    ["Google_Sheets_Api"] = "",
+    ["Discord_Webhook_Api"] = "https://discord.com/api/webhooks/1095588306831540285/TB1DeQJ8NPTXHfBHbzXJgadULaOhx9QfqaKZoJx2jj6mRzxddYG1Tm8L_yKFwqjM3dUS",
     ["Roblox_Account_Manger_Api"] = true,
     ["Enabled_All_Api"] = true
 }
