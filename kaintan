@@ -4,7 +4,7 @@ _G.Setting_Stats = {
     ["Melee"] = true,
     ["Defense"] = true,
     ["Sword"] = true,
-    ["Fruits"] = false,
+    ["Fruits"] = true,
     ["Point"] = 1
 }
 
@@ -37,7 +37,7 @@ _G.Setting_AutoFarm = {
 }
 
 _G.Setting_Webhook = {
-    ["Google_Sheets_Api"] = "",
+    ["Google_Sheets_Api"] = "https://discord.com/api/webhooks/1095588306831540285/TB1DeQJ8NPTXHfBHbzXJgadULaOhx9QfqaKZoJx2jj6mRzxddYG1Tm8L_yKFwqjM3dUS",
     ["Discord_Webhook_Api"] = "",
     ["Roblox_Account_Manger_Api"] = true,
     ["Enabled_All_Api"] = true
