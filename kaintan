@@ -1,0 +1,47 @@
+_G.KaitunMode = true 
+
+_G.Setting_Stats = {
+    ["Melee"] = true,
+    ["Defense"] = true,
+    ["Sword"] = true,
+    ["Fruits"] = false,
+    ["Point"] = 1
+}
+
+_G.Setting_Fruits = {
+    ["Fruit_Eat"] = {
+        'RumbleRumble',
+        'FlameFlame',
+        'MagmaMagma',
+        'LightLight',
+        'GasGas',
+        'IceIce',
+        'SnowSnow',
+        'QuakeQuake',
+        'SpiritSpirit',
+        'PhoenixPhoenix',
+        'DoughDough',
+        'DragonDragon'
+    }
+}
+
+_G.Setting_AutoFarm = {
+    ["Auto_Farm_Kaitun"] = true,
+    ["Auto_Farm_Bounty"] = true,
+    ["Fast_Auto_Farm"] = true,
+    ["Invisibled_Farm"] = true,
+    ["Fps_Cap"] = 15,
+    ["Boot_Fps"] = true,
+    ["White_Screen"] = true,
+    ["Auto_Close_Ui"] = true
+}
+
+_G.Setting_Webhook = {
+    ["Google_Sheets_Api"] = "",
+    ["Discord_Webhook_Api"] = "",
+    ["Roblox_Account_Manger_Api"] = true,
+    ["Enabled_All_Api"] = true
+}
+(getgenv()).Serial_Key = "NORMALHUB_Pw9H73";
+(getgenv()).Id = "1014586984435556494";
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WxHxCxKxExR/Normal_Pc/main/Script.lua"))()
